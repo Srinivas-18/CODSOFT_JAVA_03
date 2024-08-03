@@ -1,0 +1,1 @@
+Note: This implementation provides a basic ATM interface with options for withdrawing, depositing, and checking the balance. It also validates user input to ensure sufficient balance for withdrawals and displays appropriate messages based on the success or failure of transactions.
